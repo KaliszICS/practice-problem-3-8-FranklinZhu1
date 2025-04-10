@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=19117589)
 # Instructions  
 
 1. Write a function called _fib_(int num) to calculate the nth Fibonacci number (where F(0) = 0, F(1) = 1, and F(n) = F(n-1) + F(n-2) for n > 1). Your implementation should use memoization to avoid redundant calculations.
